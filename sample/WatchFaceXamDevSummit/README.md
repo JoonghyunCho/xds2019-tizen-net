@@ -1,4 +1,4 @@
-# Xamarin Developer Summit Watcface
+# Xamarin Developer Summit Watchface
 Simple watchface for Xamarin Developer Summit.
 
 <img src="Choose.png" width=180/> <img src="City.png" width=180/>
